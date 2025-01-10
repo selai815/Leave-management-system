@@ -60,9 +60,12 @@ Figure 1: Login page
 
 ![login](https://github.com/user-attachments/assets/889f15ab-8c4e-4016-ba12-303f2434942c)
 
-Figure 2: Welcome Page
+Figure 2: The welcome screen with the HR administrator (Tasi Tuuhetoka) access-right
 </br>
 
+![WelcomePage](https://github.com/user-attachments/assets/01335d6b-337f-44d6-95e7-8480857cfec6)
 
+Figure 3: Leave Application Form
+</br>
 ![LeaveForm](https://github.com/user-attachments/assets/6afa3d29-8d87-4a5c-8af8-f5a7923baa85)
 
