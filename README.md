@@ -29,8 +29,6 @@ There are four types of user which is the normal employee, HR Administrator, Hea
 - View Leave History
 - Reset Password
 - View their user profile
-
-</br>
 <b> HR Administrator</b>
 
 
