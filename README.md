@@ -58,6 +58,11 @@ There are four types of user which is the normal employee, HR Administrator, Hea
 Figure 1: Login page
 </br>
 
+![login](https://github.com/user-attachments/assets/889f15ab-8c4e-4016-ba12-303f2434942c)
+
+Figure 2: Welcome Page
+</br>
+
 
 ![LeaveForm](https://github.com/user-attachments/assets/6afa3d29-8d87-4a5c-8af8-f5a7923baa85)
 
