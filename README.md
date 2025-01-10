@@ -55,6 +55,9 @@ There are four types of user which is the normal employee, HR Administrator, Hea
   <li> View their user profile </li>
   <li> Reset Password </li></ul>
 <h2>Example of Interface</h2>
+Figure 1: Login page
+</br>
+
 
 ![LeaveForm](https://github.com/user-attachments/assets/6afa3d29-8d87-4a5c-8af8-f5a7923baa85)
 
