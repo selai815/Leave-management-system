@@ -56,6 +56,5 @@ There are four types of user which is the normal employee, HR Administrator, Hea
   <li> Reset Password </li></ul>
 <h2>Example of Interface</h2>
 ![login](https://github.com/user-attachments/assets/31fff72b-e791-4e93-88dd-19860cba49cf)
-  ![alt text]
 
 
