@@ -26,6 +26,7 @@ leave forms.
 There are four types of user which is the normal employee, HR Administrator, Head of Division, General Manager.
 </br>
 <b> Normal Employee</b>
+</br>
 - Apply for a leave
 - View Leave History
 - Reset Password
