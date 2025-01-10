@@ -25,13 +25,37 @@ leave forms.
 <h2>System Features </h2>
 There are four types of user which is the normal employee, HR Administrator, Head of Division, General Manager.
 </br>
-<<b> Normal Employee</b>
+<b> Normal Employee</b>
   <ul>
   <li>Apply for a leave</li>
   <li>View Leave History</li>
   <li>Rest Password</li>
   <li> View their user profile</li>
   </ul>
+<b> HR Administrator</b>
+  <ul>
+  <li>Apply for a leave</li>
+  <li> View Leave History </li>
+  <li> Reset Password </li>
+  <li> View their user profile </li>
+  <li> Add/update employee information </li>
+  <li>Add/update occupation information</li>
+  <li>Add/update department information </li></ul>
+  <b> Head of Division </b>
+  <ul>
+  <li>Apply for a leave</li>
+  <li> View Leave History </li>
+  <li> Reset Password </li>
+  <li> View their user profile </li>
+  <li> View Leave Reports </li>
+  <li>Response to the leave application send by the staff</li></ul>
+  <b>General Manager</b>
+  <ul>
+  <li>Response to the leave application send by the HOD.</li>
+  <li> View their user profile </li>
+  <li> Reset Password </li></ul>
+<h2>Example of Interface</h2>
 
+  
 
 
