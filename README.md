@@ -69,6 +69,9 @@ Figure 3: Leave Application Form
 </br>
 ![LeaveForm](https://github.com/user-attachments/assets/6afa3d29-8d87-4a5c-8af8-f5a7923baa85)
 
+
 Figure 3: Confirmation page
+</br>
+
 ![leaveConfirm](https://github.com/user-attachments/assets/a1a2a5fe-a8f5-4271-97cc-cb718aca05c6)
 
